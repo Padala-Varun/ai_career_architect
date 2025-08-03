@@ -1,0 +1,17 @@
+[
+  {
+    "role": "Data Scientist",
+    "skills": "Python, Machine Learning, SQL, Deep Learning, Data Visualization",
+    "trends": "High demand in healthcare and finance sectors. NLP and GenAI becoming critical."
+  },
+  {
+    "role": "Frontend Developer",
+    "skills": "React, TypeScript, Tailwind, REST APIs, UI/UX principles",
+    "trends": "Strong focus on micro frontends and performance optimization."
+  },
+  {
+    "role": "AI Product Manager",
+    "skills": "Product Strategy, LLMs, Prompt Engineering, Roadmaps, Stakeholder Management",
+    "trends": "PMs with technical AI knowledge and UX alignment are highly sought after."
+  }
+]

@@ -1,0 +1,54 @@
+{
+  "skills": [
+    {
+      "name": "Python",
+      "category": "Programming",
+      "proficiency_level": "Advanced"
+    },
+    {
+      "name": "Data Analysis",
+      "category": "Data Science",
+      "proficiency_level": "Intermediate"
+    },
+    {
+      "name": "Machine Learning",
+      "category": "Data Science",
+      "proficiency_level": "Intermediate"
+    },
+    {
+      "name": "Communication",
+      "category": "Soft Skills",
+      "proficiency_level": "Advanced"
+    },
+    {
+      "name": "Project Management",
+      "category": "Management",
+      "proficiency_level": "Intermediate"
+    },
+    {
+      "name": "Web Development",
+      "category": "Programming",
+      "proficiency_level": "Beginner"
+    },
+    {
+      "name": "Public Speaking",
+      "category": "Soft Skills",
+      "proficiency_level": "Intermediate"
+    },
+    {
+      "name": "Networking",
+      "category": "Soft Skills",
+      "proficiency_level": "Advanced"
+    },
+    {
+      "name": "Cloud Computing",
+      "category": "Technology",
+      "proficiency_level": "Intermediate"
+    },
+    {
+      "name": "Data Visualization",
+      "category": "Data Science",
+      "proficiency_level": "Intermediate"
+    }
+  ]
+}

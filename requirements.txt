@@ -1,0 +1,10 @@
+streamlit
+google-generativeai
+faiss-cpu
+PyMuPDF
+pandas
+plotly
+scikit-learn
+requests
+beautifulsoup4
+python-dotenv
