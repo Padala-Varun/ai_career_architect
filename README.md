@@ -19,4 +19,3 @@ AI-powered multi-agent career planner built with Gemini 2.5 Flash, RAG, and Stre
 
 ---
 
-To run:
